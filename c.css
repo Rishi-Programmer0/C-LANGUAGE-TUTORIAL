@@ -1,0 +1,36 @@
+body{
+  background: aqua;
+}
+
+h1{
+  background: blueviolet;
+  border-width: 20px;
+  border-style:outset;
+  border-color: chocolate;
+  
+}
+p{
+  padding:20px;
+  border-style:inset;
+  border-width:10px;
+  border-color: crimson;
+  background-color: gold;
+}
+h2{
+  border-width:25px;
+  border-style:outset;
+  border-color: greenyellow;
+  padding:15px;
+  background-color:orange;
+}
+h3{
+  border-width:30px;
+  border-style:inset;
+  border-color: sandybrown;
+  padding:20px;
+  background-color: silver;
+}
+img{
+  length:700px;
+  width:350px;
+}
